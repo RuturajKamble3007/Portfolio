@@ -1,4 +1,4 @@
-# 🌐 Personal Website – Sahil Tendulkar
+# 🌐 Personal Website – Ruturaj Kamble
 
 Welcome to my personal website repository! This project contains the source code for my personal portfolio website where I showcase my profile, skills, projects, and contact information.
 
@@ -6,7 +6,7 @@ Welcome to my personal website repository! This project contains the source code
 
 ## 👤 About Me
 
-Hi, I'm **Sahil Tendulkar** 👋
+Hi, I'm **Ruturaj Kamble** 👋
 
 * 🎓 MCA student at **DY Patil Agriculture and Technical University**
 * 💻 Java Developer with interest in web and software development
@@ -30,8 +30,7 @@ This website acts as my online identity and portfolio.
 ## 🌍 Live Demo
 
 You can view the live website here:
-https://sahilya108.github.io/my-personal-website/
-
+https://ruturajkamble3007.github.io/Portfolio/
 ---
 
 ⭐ If you like this project, consider giving it a star!
