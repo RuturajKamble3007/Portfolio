@@ -30,7 +30,7 @@ This website acts as my online identity and portfolio.
 ## 🌍 Live Demo
 
 You can view the live website here:
-https://ruturajkamble3007.github.io/Portfolio/
+
 ---
 
 ⭐ If you like this project, consider giving it a star!
